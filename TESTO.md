@@ -348,7 +348,7 @@ Sono elettori tutti i cittadini, uomini e donne, che hanno raggiunto la maggiore
 
 Il voto è personale ed eguale, libero e segreto. Il suo esercizio è dovere civico.
 
-La legge stabilisce requisiti e modalità per l'esercizio del diritto di voto dei cittadini residenti all'estero e ne assicura l'effettività. A tale fine è istituita una circoscrizione Estero per l'elezione delle Camere, alla quale sono assegnati seggi nel numero stabilito da norma costituzionale e secondo criteri determinati dalla legge. Il diritto di voto non può essere limitato se non per incapacità civile o per effetto di sentenza penale irrevocabile o nei casi di indegnità morale indicati dalla legge.
+La legge stabilisce requisiti e modalità per l'esercizio del diritto di voto dei cittadini residenti all'estero e ne assicura l'effettività. A tale fine è istituita una circoscrizione Estero per l'elezione della Camera dei deputati, alla quale sono assegnati seggi nel numero stabilito da norma costituzionale e secondo criteri determinati dalla legge. Il diritto di voto non può essere limitato se non per incapacità civile o per effetto di sentenza penale irrevocabile o nei casi di indegnità morale indicati dalla legge.
 
 ##### Art. 49.
 
@@ -394,6 +394,14 @@ I cittadini cui sono affidate funzioni pubbliche hanno il dovere di adempierle c
 
 Il Parlamento si compone della Camera dei deputati e del Senato della Repubblica.
 
+Le leggi che stabiliscono le modalità di elezione delle Camere promuovono l'equilibrio tra donne e uomini nella rappresentanza.
+
+Ciascun membro della Camera dei deputati rappresenta la Nazione.
+
+La Camera dei deputati è titolare del rapporto di fiducia con il Governo ed esercita la funzione di indirizzo politico, la funzione legislativa e quella di controllo dell'operato del Governo.
+
+Il Senato della Repubblica rappresenta le istituzioni territoriali ed esercita funzioni di raccordo tra lo Stato e gli altri enti costitutivi della Repubblica. Concorre all'esercizio della funzione legislativa nei casi e secondo le modalità stabiliti dalla Costituzione, nonché all'esercizio delle funzioni di raccordo tra lo Stato, gli altri enti costitutivi della Repubblica e l'Unione europea. Partecipa alle decisioni dirette alla formazione e all'attuazione degli atti normativi e delle politiche dell'Unione europea. Valuta le politiche pubbliche e l'attività delle pubbliche amministrazioni e verifica l'impatto delle politiche dell'Unione europea sui territori. Concorre ad esprimere pareri sulle nomine di competenza del Governo nei casi previsti dalla legge e a verificare l'attuazione delle leggi dello Stato.
+
 Il Parlamento si riunisce in seduta comune dei membri delle due Camere nei soli casi stabiliti dalla Costituzione.
 
 ##### Art. 56.
@@ -408,35 +416,39 @@ La ripartizione dei seggi tra le circoscrizioni, fatto salvo il numero dei seggi
 
 ##### Art. 57.
 
-Il Senato della Repubblica è eletto a base regionale, salvi i seggi assegnati alla circoscrizione Estero.
+Il Senato della Repubblica è composto da novantacinque senatori rappresentativi delle istituzioni territoriali e da cinque senatori che possono essere nominati dal Presidente della Repubblica.
 
-Il numero dei senatori elettivi è di trecentoquindici, sei dei quali eletti nella circoscrizione Estero.
+I Consigli regionali e i Consigli delle Province autonome di Trento e di Bolzano eleggono, con metodo proporzionale, i senatori tra i propri componenti e, nella misura di uno per ciascuno, tra i sindaci dei Comuni dei rispettivi territori.
 
-Nessuna Regione può avere un numero di senatori inferiore a sette; il Molise ne ha due, la Valle d'Aosta uno.
+Nessuna Regione può avere un numero di senatori inferiore a due; ciascuna delle Province autonome di Trento e di Bolzano ne ha due.
 
-La ripartizione dei seggi tra le Regioni, fatto salvo il numero dei seggi assegnati alla circoscrizione Estero, previa applicazione delle disposizioni del precedente comma, si effettua in proporzione alla popolazione delle Regioni, quale risulta dall'ultimo censimento generale, sulla base dei quozienti interi e dei più alti resti.
+La ripartizione dei seggi tra le Regioni si effettua, previa applicazione delle disposizioni del precedente comma, in proporzione alla loro popolazione, quale risulta dall'ultimo censimento generale, sulla base dei quozienti interi e dei più alti resti.
+
+La durata del mandato dei senatori coincide con quella degli organi delle istituzioni territoriali dai quali sono stati eletti, in conformità alle scelte espresse dagli elettori per i candidati consiglieri in occasione del rinnovo dei medesimi organi, secondo le modalità stabilite dalla legge di cui al sesto comma.
+
+Con legge approvata da entrambe le Camere sono regolate le modalità di attribuzione dei seggi e di elezione dei membri del Senato della Repubblica tra i consiglieri e i sindaci, nonché quelle per la loro sostituzione, in caso di cessazione dalla carica elettiva regionale o locale. I seggi sono attribuiti in ragione dei voti espressi e della composizione di ciascun Consiglio.
 
 ##### Art. 58.
 
-I senatori sono eletti a suffragio universale e diretto dagli elettori che hanno superato il venticinquesimo anno di età.
-
-Sono eleggibili a senatori gli elettori che hanno compiuto il quarantesimo anno.
+Abrogato
 
 ##### Art. 59.
 
 È senatore di diritto e a vita, salvo rinunzia, chi è stato Presidente della Repubblica.
 
-Il Presidente della Repubblica può nominare senatori a vita cinque cittadini che hanno illustrato la Patria per altissimi meriti nel campo sociale, scientifico, artistico e letterario.
+Il Presidente della Repubblica può nominare senatori cittadini che hanno illustrato la Patria per altissimi meriti nel campo sociale, scientifico, artistico e letterario. Tali senatori durano in carica sette anni e non possono essere nuovamente nominati.
 
 ##### Art. 60.
 
-La Camera dei deputati e il Senato della Repubblica sono eletti per cinque anni. La durata di ciascuna Camera non può essere prorogata se non per legge e soltanto in caso di guerra.
+La Camera dei deputati è eletta per cinque anni.
+
+La durata della Camera dei deputati non può essere prorogata se non per legge e soltanto in caso di guerra.
 
 ##### Art. 61.
 
-Le elezioni delle nuove Camere hanno luogo entro settanta giorni dalla fine delle precedenti. La prima riunione ha luogo non oltre il ventesimo giorno dalle elezioni.
+L'elezione della nuova Camera dei deputati ha luogo entro settanta giorni dalla fine della precedente. La prima riunione ha luogo non oltre il ventesimo giorno dall'elezione.
 
-Finché non siano riunite le nuove Camere sono prorogati i poteri delle precedenti.
+Finché non sia riunita la nuova Camera dei deputati sono prorogati i poteri della precedente.
 
 ##### Art. 62.
 
@@ -444,11 +456,11 @@ Le Camere si riuniscono di diritto il primo giorno non festivo di febbraio e di 
 
 Ciascuna Camera può essere convocata in via straordinaria per iniziativa del suo Presidente o del Presidente della Repubblica o di un terzo dei suoi componenti.
 
-Quando si riunisce in via straordinaria una Camera, è convocata di diritto anche l'altra.
-
 ##### Art. 63.
 
 Ciascuna Camera elegge fra i suoi componenti il Presidente e l'Ufficio di presidenza.
+
+Il regolamento stabilisce in quali casi l'elezione o la nomina alle cariche negli organi del Senato della Repubblica possono essere limitate in ragione dell'esercizio di funzioni di governo regionali o locali.
 
 Quando il Parlamento si riunisce in seduta comune, il Presidente e l'Ufficio di presidenza sono quelli della Camera dei deputati.
 
@@ -456,11 +468,15 @@ Quando il Parlamento si riunisce in seduta comune, il Presidente e l'Ufficio di 
 
 Ciascuna Camera adotta il proprio regolamento a maggioranza assoluta dei suoi componenti.
 
+I regolamenti delle Camere garantiscono i diritti delle minoranze parlamentari.  Il regolamento della Camera dei deputati disciplina lo statuto delle opposizioni.
+
 Le sedute sono pubbliche; tuttavia ciascuna delle due Camere e il Parlamento a Camere riunite possono deliberare di adunarsi in seduta segreta.
 
 Le deliberazioni di ciascuna Camera e del Parlamento non sono valide se non è presente la maggioranza dei loro componenti, e se non sono adottate a maggioranza dei presenti, salvo che la Costituzione prescriva una maggioranza speciale.
 
-I membri del Governo, anche se non fanno parte delle Camere, hanno diritto, e se richiesti obbligo, di assistere alle sedute. Devono essere sentiti ogni volta che lo richiedono.
+I membri del Governo hanno diritto, e se richiesti obbligo, di assistere alle sedute delle Camere. Devono essere sentiti ogni volta che lo richiedono.
+
+I membri del Parlamento hanno il dovere di partecipare alle sedute dell'Assemblea e ai lavori delle Commissioni.
 
 ##### Art. 65.
 
@@ -472,9 +488,11 @@ Nessuno può appartenere contemporaneamente alle due Camere.
 
 Ciascuna Camera giudica dei titoli di ammissione dei suoi componenti e delle cause sopraggiunte di ineleggibilità e di incompatibilità.
 
+Il Senato della Repubblica prende atto della cessazione dalla carica elettiva regionale o locale e della conseguente decadenza da senatore.
+
 ##### Art. 67.
 
-Ogni membro del Parlamento rappresenta la Nazione ed esercita le sue funzioni senza vincolo di mandato.
+I membri del Parlamento esercitano le loro funzioni senza vincolo di mandato.
 
 ##### Art. 68.
 
@@ -486,35 +504,58 @@ Analoga autorizzazione è richiesta per sottoporre i membri del Parlamento ad in
 
 ##### Art. 69.
 
-I membri del Parlamento ricevono una indennità stabilita dalla legge.
+I membri della Camera dei deputati ricevono una indennità stabilita dalla legge.
 
 #### Sezione II — La formazione delle leggi
 
 ##### Art. 70.
 
-La funzione legislativa è esercitata collettivamente dalle due Camere.
+La funzione legislativa è esercitata collettivamente dalle due Camere per le leggi di revisione della Costituzione e le altre leggi costituzionali, e soltanto per le leggi di attuazione delle disposizioni costituzionali concernenti la tutela delle minoranze linguistiche, i referendum popolari, le altre forme di consultazione di cui all'articolo 71, per le leggi che determinano l'ordinamento, la legislazione elettorale, gli organi di governo, le funzioni fondamentali dei Comuni e delle Città metropolitane e le disposizioni di principio sulle forme associative dei Comuni, per la legge che stabilisce le norme generali, le forme e i termini della partecipazione dell'Italia alla formazione e all'attuazione della normativa e delle politiche dell'Unione europea, per quella che determina i casi di ineleggibilità e di incompatibilità con l'ufficio di senatore di cui all'articolo 65, primo comma, e per le leggi di cui agli articoli 57, sesto comma, 80, secondo periodo, 114, terzo comma, 116, terzo comma, 117, quinto e nono comma, 119, sesto comma, 120, secondo comma, 122, primo comma, e 132, secondo comma. Le stesse leggi, ciascuna con oggetto proprio, possono essere abrogate, modificate o derogate solo in forma espressa e da leggi approvate a norma del presente comma.
+
+Le altre leggi sono approvate dalla Camera dei deputati.
+
+Ogni disegno di legge approvato dalla Camera dei deputati è immediatamente trasmesso al Senato della Repubblica che, entro dieci giorni, su richiesta di un terzo dei suoi componenti, può disporre di esaminarlo. Nei trenta giorni successivi il Senato della Repubblica può deliberare proposte di modificazione del testo, sulle quali la Camera dei deputati si pronuncia in via definitiva.  Qualora il Senato della Repubblica non disponga di procedere all'esame o sia inutilmente decorso il termine per deliberare, ovvero quando la Camera dei deputati si sia pronunciata in via definitiva, la legge può essere promulgata.
+
+L'esame del Senato della Repubblica per le leggi che danno attuazione all'articolo 117, quarto comma, è disposto nel termine di dieci giorni dalla data di trasmissione. Per i medesimi disegni di legge, la Camera dei deputati può non conformarsi alle modificazioni proposte dal Senato della Repubblica a maggioranza assoluta dei suoi componenti, solo pronunciandosi nella votazione finale a maggioranza assoluta dei propri componenti.
+
+I disegni di legge di cui all'articolo 81, quarto comma, approvati dalla Camera dei deputati, sono esaminati dal Senato della Repubblica, che può deliberare proposte di modificazione entro quindici giorni dalla data della trasmissione.
+
+I Presidenti delle Camere decidono, d'intesa tra loro, le eventuali questioni di competenza, sollevate secondo le norme dei rispettivi regolamenti.
+
+Il Senato della Repubblica può, secondo quanto previsto dal proprio regolamento, svolgere attività conoscitive, nonché formulare osservazioni su atti o documenti all'esame della Camera dei deputati
 
 ##### Art. 71.
 
 L'iniziativa delle leggi appartiene al Governo, a ciascun membro delle Camere ed agli organi ed enti ai quali sia conferita da legge costituzionale.
 
-Il popolo esercita l'iniziativa delle leggi, mediante la proposta, da parte di almeno cinquantamila elettori, di un progetto redatto in articoli.
+Il Senato della Repubblica può, con deliberazione adottata a maggioranza assoluta dei suoi componenti, richiedere alla Camera dei deputati di procedere all'esame di un disegno di legge. In tal caso, la Camera dei deputati procede all'esame e si pronuncia entro il termine di sei mesi dalla data della
+deliberazione del Senato della Repubblica  
+
+Il popolo esercita l'iniziativa delle leggi, mediante la proposta, da parte di almeno centocinquantamila elettori, di un progetto redatto in articoli. La discussione e la deliberazione conclusiva sulle proposte di legge d'iniziativa popolare sono garantite nei tempi, nelle forme e nei limiti stabiliti dai regolamenti parlamentari
+
+Al fine di favorire la partecipazione dei cittadini alla determinazione delle politiche pubbliche, la legge costituzionale stabilisce condizioni ed effetti di referendum popolari propositivi e d'indirizzo, nonché di altre forme di consultazione, anche delle formazioni sociali. Con legge approvata da entrambe le Camere sono disposte le modalità di attuazione.
 
 ##### Art. 72.
 
-Ogni disegno di legge, presentato ad una Camera è, secondo le norme del suo regolamento, esaminato da una commissione e poi dalla Camera stessa, che l'approva articolo per articolo e con votazione finale.
+Ogni disegno di legge di cui all'articolo 70, primo comma, presentato ad una Camera è, secondo le norme del suo regolamento, esaminato da una commissione e poi dalla Camera stessa, che l'approva articolo per articolo e con votazione finale.
 
-Il regolamento stabilisce procedimenti abbreviati per i disegni di legge dei quali è dichiarata l'urgenza.
+Ogni altro disegno di legge è presentato alla Camera dei deputati e, secondo le norme del suo regolamento, esaminato da una Commissione e poi dalla Camera stessa, che l'approva articolo per articolo e con votazione finale.
 
-Può altresì stabilire in quali casi e forme l'esame e l'approvazione dei disegni di legge sono deferiti a commissioni, anche permanenti, composte in modo da rispecchiare la proporzione dei gruppi parlamentari. Anche in tali casi, fino al momento della sua approvazione definitiva, il disegno di legge è rimesso alla Camera, se il Governo o un decimo dei componenti della Camera o un quinto della commissione richiedono che sia discusso e votato dalla Camera stessa oppure che sia sottoposto alla sua approvazione finale con sole dichiarazioni di voto. Il regolamento determina le forme di pubblicità dei lavori delle commissioni.
+I regolamenti stabiliscono procedimenti abbreviati per i disegni di legge dei quali è dichiarata l'urgenza.
 
-La procedura normale di esame e di approvazione diretta da parte della Camera è sempre adottata per i disegni di legge in materia costituzionale ed elettorale e per quelli di delegazione legislativa, di autorizzazione a ratificare trattati internazionali, di approvazione di bilanci e consuntivi.
+Possono altresì stabilire in quali casi e forme l'esame e l'approvazione dei disegni di legge sono deferiti a Commissioni, anche permanenti, che, alla Camera dei deputati, sono composte in modo da rispecchiare la proporzione dei gruppi parlamentari. Anche in tali casi, fino al momento della sua approvazione definitiva, il disegno di legge è rimesso alla Camera, se il Governo o un decimo dei componenti della Camera o un quinto della Commissione richiedono che sia discusso e votato dalla Camera stessa oppure che sia sottoposto alla sua approvazione finale con sole dichiarazioni di voto. I regolamenti determinano le forme di pubblicità dei lavori delle Commissioni.
+
+La procedura normale di esame e di approvazione diretta da parte della Camera è sempre adottata per i disegni di legge in materia costituzionale ed elettorale, per quelli di delegazione legislativa, per quelli di conversione in legge di decreti, per quelli di autorizzazione a ratificare trattati internazionali e per quelli di approvazione di bilanci e consuntivi.
+
+Il regolamento del Senato della Repubblica disciplina le modalità di esame dei disegni di legge trasmessi dalla Camera dei deputati ai sensi dell'articolo 70.
+
+Esclusi i casi di cui all'articolo 70, primo comma, e, in ogni caso, le leggi in materia elettorale, le leggi di autorizzazione alla ratifica dei trattati internazionali e le leggi di cui agli articoli 79 e 81, sesto comma, il Governo può chiedere alla Camera dei deputati di deliberare, entro cinque giorni dalla richiesta, che un disegno di legge indicato come essenziale per l'attuazione del programma di governo sia iscritto con priorità all'ordine del giorno e sottoposto alla pronuncia in via definitiva della Camera dei deputati entro il termine di settanta giorni dalla deliberazione. In tali casi, i termini di cui all'articolo 70, terzo comma, sono ridotti della metà. Il termine può essere differito di non oltre quindici giorni, in relazione ai tempi di esame da parte della Commissione nonché alla complessità del disegno di legge. Il regolamento della Camera dei deputati stabilisce le modalità e i limiti del procedimento, anche con riferimento all'omogeneità del disegno di legge.
 
 ##### Art. 73.
 
-Le leggi sono promulgate dal Presidente della Repubblica entro un mese dall'approvazione.
+Le leggi sono promulgate dal Presidente della Repubblica entro un mese dall'approvazione. Le leggi che disciplinano l'elezione dei membri della Camera dei deputati e del Senato della Repubblica possono essere sottoposte, prima della loro promulgazione, al giudizio preventivo di legittimità costituzionale da parte della Corte costituzionale, su ricorso motivato presentato da almeno un quarto dei componenti della Camera dei deputati o da almeno un terzo dei componenti del Senato della Repubblica entro dieci giorni dall'approvazione della legge, prima dei quali la legge non può essere promulgata. La Corte costituzionale si pronuncia entro il termine di trenta giorni e, fino ad allora, resta sospeso il termine per la promulgazione della legge. In caso di dichiarazione di illegittimità costituzionale, la legge non può essere promulgata.
 
-Se le Camere, ciascuna a maggioranza assoluta dei propri componenti, ne dichiarano l'urgenza, la legge è promulgata nel termine da essa stabilito.
+Se la Camera dei deputati, a maggioranza assoluta dei suoi componenti, ne dichiara l'urgenza, la legge è promulgata nel termine da essa stabilito.
 
 Le leggi sono pubblicate subito dopo la promulgazione ed entrano in vigore il quindicesimo giorno successivo alla loro pubblicazione, salvo che le leggi stesse stabiliscano un termine diverso.
 
@@ -524,15 +565,19 @@ Il Presidente della Repubblica, prima di promulgare la legge, può con messaggio
 
 Se le Camere approvano nuovamente la legge, questa deve essere promulgata.
 
+Qualora la richiesta riguardi la legge di conversione di un decreto adottato a norma dell'articolo 77, il termine per la conversione in legge è differito di trenta giorni.
+
+Se la legge è nuovamente approvata, questa deve essere promulgata
+
 ##### Art. 75.
 
 È indetto referendum popolare per deliberare l'abrogazione, totale o parziale, di una legge o di un atto avente valore di legge, quando lo richiedono cinquecentomila elettori o cinque Consigli regionali.
 
 Non è ammesso il referendum per le leggi tributarie e di bilancio, di amnistia e di indulto, di autorizzazione a ratificare trattati internazionali.
 
-Hanno diritto di partecipare al referendum tutti i cittadini chiamati ad eleggere la Camera dei deputati.
+Hanno diritto di partecipare al referendum tutti gli elettori.
 
-La proposta soggetta a referendum è approvata se ha partecipato alla votazione la maggioranza degli aventi diritto, e se è raggiunta la maggioranza dei voti validamente espressi.
+La proposta soggetta a referendum è approvata se ha partecipato alla votazione la maggioranza degli aventi diritto o, se avanzata da ottocentomila elettori, la maggioranza dei votanti alle ultime elezioni della Camera dei deputati, e se è raggiunta la maggioranza dei voti validamente espressi.
 
 La legge determina le modalità di attuazione del referendum.
 
@@ -542,19 +587,27 @@ L'esercizio della funzione legislativa non può essere delegato al Governo se no
 
 ##### Art. 77.
 
-Il Governo non può, senza delegazione delle Camere, emanare decreti che abbiano valore di legge ordinaria.
+Il Governo non può, senza delegazione disposta con legge, emanare decreti che abbiano valore di legge ordinaria.
 
-Quando, in casi straordinari di necessità e d'urgenza, il Governo adotta, sotto la sua responsabilità, provvedimenti provvisori con forza di legge, deve il giorno stesso presentarli per la conversione alle Camere che, anche se sciolte, sono appositamente convocate e si riuniscono entro cinque giorni.
+Quando, in casi straordinari di necessità e d'urgenza, il Governo adotta, sotto la sua responsabilità, provvedimenti provvisori con forza di legge, deve il giorno stesso presentarli per la conversione alla Camera dei deputati, anche quando la funzione legislativa è esercitata collettivamente dalle due Camere.  La Camera dei deputati, anche se sciolta, è appositamente convocata e si riunisce entro cinque giorni.
 
-I decreti perdono efficacia sin dall'inizio, se non sono convertiti in legge entro sessanta giorni dalla loro pubblicazione. Le Camere possono tuttavia regolare con legge i rapporti giuridici sorti sulla base dei decreti non convertiti.
+I decreti perdono efficacia sin dall'inizio, se non sono convertiti in legge entro sessanta giorni dalla loro pubblicazione o, nei casi in cui il Presidente della Repubblica abbia chiesto, a norma dell'articolo 74, una nuova deliberazione, entro novanta giorni dalla loro pubblicazione. La legge può tuttavia regolare i rapporti giuridici sorti sulla base dei decreti non convertiti.
+
+Il Governo non può, mediante provvedimenti provvisori con forza di legge: disciplinare le materie indicate nell'articolo 72, quinto comma, con esclusione, per la materia elettorale, della disciplina dell'organizzazione del procedimento elettorale e dello svolgimento delle elezioni; reiterare disposizioni adottate con decreti non convertiti in legge e regolare i rapporti giuridici sorti sulla base dei medesimi; ripristinare l'efficacia di norme di legge o di atti aventi forza di legge che la Corte costituzionale ha dichiarato illegittimi per vizi non attinenti al procedimento.
+
+I decreti recano misure di immediata applicazione e di contenuto specifico, omogeneo e corrispondente al titolo.
+
+L'esame, a norma dell'articolo 70, terzo e quarto comma, dei disegni di legge di conversione dei decreti è disposto dal Senato della Repubblica entro trenta giorni dalla loro presentazione alla Camera dei deputati. Le proposte di modificazione possono essere deliberate entro dieci giorni dalla data di trasmissione del disegno di legge di conversione, che deve avvenire non oltre quaranta giorni dalla presentazione.
+
+Nel corso dell'esame dei disegni di legge di conversione dei decreti non possono essere approvate disposizioni estranee all'oggetto o alle finalità del decreto.
 
 ##### Art. 78.
 
-Le Camere deliberano lo stato di guerra e conferiscono al Governo i poteri necessari.
+La Camera dei deputati delibera a maggioranza assoluta lo stato di guerra e conferisce al Governo i poteri necessari.
 
 ##### Art. 79.
 
-L'amnistia e l'indulto sono concessi con legge deliberata a maggioranza dei due terzi dei componenti di ciascuna Camera, in ogni suo articolo e nella votazione finale.
+L'amnistia e l'indulto sono concessi con legge deliberata a maggioranza dei due terzi dei componenti della Camera dei deputati, in ogni suo articolo e nella votazione finale.
 
 La legge che concede l'amnistia o l'indulto stabilisce il termine per la loro applicazione.
 
@@ -562,25 +615,27 @@ In ogni caso l'amnistia e l'indulto non possono applicarsi ai reati commessi suc
 
 ##### Art. 80.
 
-Le Camere autorizzano con legge la ratifica dei trattati internazionali che sono di natura politica, o prevedono arbitrati o regolamenti giudiziari, o importano variazioni del territorio od oneri alle finanze o modificazioni di leggi.
+La Camera dei deputati autorizza con legge la ratifica dei trattati internazionali che sono di natura politica, o prevedono arbitrati o regolamenti giudiziari, o importano variazioni del territorio od oneri alle finanze o modificazioni di leggi. Le leggi che autorizzano la ratifica dei trattati relativi all'appartenenza dell'Italia all'Unione europea sono approvate da entrambe le Camere.
 
 ##### Art. 81.
 
-Lo Stato assicura l'equilibrio tra le entrate e le spese del proprio bilancio, tenendo conto delle fasi avverse e delle fasi favorevoli del ciclo economico.  Il ricorso all'indebitamento è consentito solo al fine di considerare gli effetti del ciclo economico e, previa autorizzazione delle Camere adottata a maggioranza assoluta dei rispettivi componenti, al verificarsi di eventi eccezionali.
+Lo Stato assicura l'equilibrio tra le entrate e le spese del proprio bilancio, tenendo conto delle fasi avverse e delle fasi favorevoli del ciclo economico.
+
+Il ricorso all'indebitamento è consentito solo al fine di considerare gli effetti del ciclo economico e, previa autorizzazione della Camera dei deputati adottata a maggioranza assoluta dei suoi componenti, al verificarsi di eventi eccezionali.
 
 Ogni legge che importi nuovi o maggiori oneri provvede ai mezzi per farvi fronte.
 
-Le Camere ogni anno approvano con legge il bilancio e il rendiconto consuntivo presentati dal Governo.
+La Camera dei deputati ogni anno approva con legge il bilancio e il rendiconto consuntivo presentati dal Governo.
 
 L'esercizio provvisorio del bilancio non può essere concesso se non per legge e per periodi non superiori complessivamente a quattro mesi.
 
-Il contenuto della legge di bilancio, le norme fondamentali e i criteri volti ad assicurare l'equilibrio tra le entrate e le spese dei bilanci e la sostenibilità del debito del complesso delle pubbliche amministrazioni sono stabiliti con legge approvata a maggioranza assoluta dei componenti di ciascuna Camera, nel rispetto dei principi definiti con legge costituzionale.
+Il contenuto della legge di bilancio, le norme fondamentali e i criteri volti ad assicurare l'equilibrio tra le entrate e le spese dei bilanci e la sostenibilità del debito del complesso delle pubbliche amministrazioni sono stabiliti con legge approvata a maggioranza assoluta dei componenti della Camera dei deputati, nel rispetto dei principi definiti con legge costituzionale.
 
 ##### Art. 82.
 
-Ciascuna Camera può disporre inchieste su materie di pubblico interesse.
+La Camera dei deputati può disporre inchieste su materie di pubblico interesse.  Il Senato della Repubblica può disporre inchieste su materie di pubblico interesse concernenti le autonomie territoriali.
 
-A tale scopo nomina fra i propri componenti una commissione formata in modo da rispecchiare la proporzione dei vari gruppi. La commissione d'inchiesta procede alle indagini e agli esami con gli stessi poteri e le stesse limitazioni dell'autorità giudiziaria.
+A tale scopo ciascuna Camera nomina fra i propri componenti una Commissione.  Alla Camera dei deputati la Commissione è formata in modo da rispecchiare la proporzione dei vari gruppi. La Commissione d'inchiesta procede alle indagini e agli esami con gli stessi poteri e le stesse limitazioni dell'autorità giudiziaria.
 
 ### Titolo II — Il Presidente della Repubblica
 
@@ -588,9 +643,7 @@ A tale scopo nomina fra i propri componenti una commissione formata in modo da r
 
 Il Presidente della Repubblica è eletto dal Parlamento in seduta comune dei suoi membri.
 
-All'elezione partecipano tre delegati per ogni Regione eletti dal Consiglio regionale in modo che sia assicurata la rappresentanza delle minoranze. La Valle d'Aosta ha un solo delegato.
-
-L'elezione del Presidente della Repubblica ha luogo per scrutinio segreto a maggioranza di due terzi della assemblea. Dopo il terzo scrutinio è sufficiente la maggioranza assoluta.
+L'elezione del Presidente della Repubblica ha luogo per scrutinio segreto a maggioranza di due terzi della assemblea. Dal quarto scrutinio è sufficiente la maggioranza dei tre quinti dell'assemblea. Dal settimo scrutinio è sufficiente la maggioranza dei tre quinti dei votanti.
 
 ##### Art. 84.
 
@@ -604,15 +657,15 @@ L'assegno e la dotazione del Presidente sono determinati per legge.
 
 Il Presidente della Repubblica è eletto per sette anni.
 
-Trenta giorni prima che scada il termine, il Presidente della Camera dei deputati convoca in seduta comune il Parlamento e i delegati regionali, per eleggere il nuovo Presidente della Repubblica.
+Trenta giorni prima che scada il termine, il Presidente della Camera dei deputati convoca in seduta comune il Parlamento, per eleggere il nuovo Presidente della Repubblica. Quando il Presidente della Camera esercita le funzioni del Presidente della Repubblica nel caso in cui questi non possa adempierle, il Presidente del Senato convoca e presiede il Parlamento in seduta comune.
 
-Se le Camere sono sciolte, o manca meno di tre mesi alla loro cessazione, la elezione ha luogo entro quindici giorni dalla riunione delle Camere nuove. Nel frattempo sono prorogati i poteri del Presidente in carica.
+Se la Camera dei deputati è sciolta, o manca meno di tre mesi alla sua cessazione, l'elezione ha luogo entro quindici giorni dalla riunione della Camera nuova. Nel frattempo sono prorogati i poteri del Presidente in carica.
 
 ##### Art. 86.
 
-Le funzioni del Presidente della Repubblica, in ogni caso che egli non possa adempierle, sono esercitate dal Presidente del Senato.
+Le funzioni del Presidente della Repubblica, in ogni caso che egli non possa adempierle, sono esercitate dal Presidente della Camera dei deputati.
 
-In caso di impedimento permanente o di morte o di dimissioni del Presidente della Repubblica, il Presidente della Camera dei deputati indice la elezione del nuovo Presidente della Repubblica entro quindici giorni, salvo il maggior termine previsto se le Camere sono sciolte o manca meno di tre mesi alla loro cessazione.
+In caso di impedimento permanente o di morte o di dimissioni del Presidente della Repubblica, il Presidente del Senato indice la elezione del nuovo Presidente della Repubblica entro quindici giorni, salvo il maggior termine previsto se la Camera dei deputati è sciolta o manca meno di tre mesi alla sua cessazione.
 
 ##### Art. 87.
 
@@ -620,7 +673,7 @@ Il Presidente della Repubblica è il capo dello Stato e rappresenta l'unità naz
 
 Può inviare messaggi alle Camere.
 
-Indice le elezioni delle nuove Camere e ne fissa la prima riunione.
+Indice le elezioni della nuova Camera dei deputati ne fissa la prima riunione.
 
 Autorizza la presentazione alle Camere dei disegni di legge di iniziativa del Governo.
 
@@ -630,9 +683,9 @@ Indice il referendum popolare nei casi previsti dalla Costituzione.
 
 Nomina, nei casi indicati dalla legge, i funzionari dello Stato.
 
-Accredita e riceve i rappresentanti diplomatici, ratifica i trattati internazionali, previa, quando occorra, l'autorizzazione delle Camere.
+Accredita e riceve i rappresentanti diplomatici, ratifica i trattati internazionali, previa, quando occorra, l'autorizzazione della Camera dei deputati. Ratifica i trattati relativi all'appartenenza dell'Italia all'Unione europea, previa l'autorizzazione di entrambe le Camere.
 
-Ha il comando delle Forze armate, presiede il Consiglio supremo di difesa costituito secondo la legge, dichiara lo stato di guerra deliberato dalle Camere.
+Ha il comando delle Forze armate, presiede il Consiglio supremo di difesa costituito secondo la legge, dichiara lo stato di guerra deliberato dalla Camera dei deputati.
 
 Presiede il Consiglio superiore della magistratura.
 
@@ -642,7 +695,7 @@ Conferisce le onorificenze della Repubblica.
 
 ##### Art. 88.
 
-Il Presidente della Repubblica può, sentiti i loro Presidenti, sciogliere le Camere o anche una sola di esse.
+Il Presidente della Repubblica può, sentito il suo Presidente, sciogliere la Camera dei deputati.
 
 Non può esercitare tale facoltà negli ultimi sei mesi del suo mandato, salvo che essi coincidano in tutto o in parte con gli ultimi sei mesi della legislatura.
 
@@ -678,15 +731,15 @@ Il Presidente del Consiglio dei ministri e i ministri, prima di assumere le funz
 
 ##### Art. 94.
 
-Il Governo deve avere la fiducia delle due Camere.
+Il Governo deve avere la fiducia della Camera dei deputati.
 
-Ciascuna Camera accorda o revoca la fiducia mediante mozione motivata e votata per appello nominale.
+La fiducia è accordata o revocata mediante mozione motivata e votata per appello nominale.
 
-Entro dieci giorni dalla sua formazione il Governo si presenta alle Camere per ottenerne la fiducia.
+Entro dieci giorni dalla sua formazione il Governo si presenta innanzi alla Camera dei deputati per ottenerne la fiducia.
 
-Il voto contrario di una o d'entrambe le Camere su una proposta del Governo non importa obbligo di dimissioni.
+Il voto contrario della Camera dei deputati su una proposta del Governo non importa obbligo di dimissioni.
 
-La mozione di sfiducia deve essere firmata da almeno un decimo dei componenti della Camera e non può essere messa in discussione prima di tre giorni dalla sua presentazione.
+La mozione di sfiducia deve essere firmata da almeno un decimo dei componenti della Camera dei deputati e non può essere messa in discussione prima di tre giorni dalla sua presentazione.
 
 ##### Art. 95.
 
@@ -698,7 +751,7 @@ La legge provvede all'ordinamento della Presidenza del Consiglio e determina il 
 
 ##### Art. 96.
 
-Il Presidente del Consiglio dei ministri e i ministri, anche se cessati dalla carica, sono sottoposti, per i reati commessi nell'esercizio delle loro funzioni, alla giurisdizione ordinaria, previa autorizzazione del Senato della Repubblica o della Camera dei Deputati, secondo le norme stabilite con legge costituzionale.
+Il Presidente del Consiglio dei ministri e i ministri, anche se cessati dalla carica, sono sottoposti, per i reati commessi nell'esercizio delle loro funzioni, alla giurisdizione ordinaria, previa autorizzazione della Camera dei Deputati, secondo le norme stabilite con legge costituzionale.
 
 #### Sezione II — La pubblica amministrazione
 
@@ -706,7 +759,7 @@ Il Presidente del Consiglio dei ministri e i ministri, anche se cessati dalla ca
 
 Le pubbliche amministrazioni, in coerenza con l'ordinamento dell'Unione europea, assicurano l'equilibrio dei bilanci e la sostenibilità del debito pubblico.
 
-I pubblici uffici sono organizzati secondo disposizioni di legge, in modo che siano assicurati il buon andamento e l'imparzialità dell'amministrazione.
+I pubblici uffici sono organizzati secondo disposizioni di legge, in modo che siano assicurati il buon andamento, l'imparzialità e la trasparenza dell'amministrazione
 
 Nell'ordinamento degli uffici sono determinate le sfere di competenza, le attribuzioni e le responsabilità proprie dei funzionari.
 
@@ -724,11 +777,7 @@ Si possono con legge stabilire limitazioni al diritto d'iscriversi ai partiti po
 
 ##### Art. 99.
 
-Il Consiglio nazionale dell'economia e del lavoro è composto, nei modi stabiliti dalla legge, di esperti e di rappresentanti delle categorie produttive, in misura che tenga conto della loro importanza numerica e qualitativa.
-
-È organo di consulenza delle Camere e del Governo per le materie e secondo le funzioni che gli sono attribuite dalla legge.
-
-Ha l'iniziativa legislativa e può contribuire alla elaborazione della legislazione economica e sociale secondo i principî ed entro i limiti stabiliti dalla legge.
+Abrogato
 
 ##### Art. 100.
 
@@ -848,13 +897,13 @@ Tale tutela giurisdizionale non può essere esclusa o limitata a particolari mez
 
 La legge determina quali organi di giurisdizione possono annullare gli atti della pubblica amministrazione nei casi e con gli effetti previsti dalla legge stessa.
 
-### Titolo V — Le regioni, le provincie, i comuni
+### Titolo V — Le regioni, le città metropolitane, i comuni
 
 ##### Art. 114
 
-La Repubblica è costituita dai Comuni, dalle Province, dalle Città metropolitane, dalle Regioni e dallo Stato.
+La Repubblica è costituita dai Comuni, dalle Città metropolitane, dalle Regioni e dallo Stato.
 
-I Comuni, le Province, le Città metropolitane e le Regioni sono enti autonomi con propri statuti, poteri e funzioni secondo i princìpi fissati dalla Costituzione.
+I Comuni, le Città metropolitane e le Regioni sono enti autonomi con propri statuti, poteri e funzioni secondo i princìpi fissati dalla Costituzione.
 
 Roma è la capitale della Repubblica. La legge dello Stato disciplina il suo ordinamento.
 
@@ -868,12 +917,12 @@ Il Friuli-Venezia Giulia, la Sardegna, la Sicilia, il Trentino-Alto Adige/Südti
 
 La Regione Trentino-Alto Adige/Südtirol è costituita dalle Province autonome di Trento e di Bolzano.
 
-Ulteriori forme e condizioni particolari di autonomia, concernenti le materie di cui al terzo comma dell'articolo 117 e le materie indicate dal secondo comma del medesimo articolo alle lettere l), limitatamente all'organizzazione della giustizia di pace, n) e s), possono essere attribuite ad altre Regioni, con legge dello Stato, su iniziativa della Regione interessata, sentiti gli enti locali, nel rispetto dei principi di cui all'articolo 119. La legge è approvata dalle Camere a maggioranza assoluta dei componenti, sulla base di intesa fra lo Stato e la Regione interessata.
+Ulteriori forme e condizioni particolari di autonomia, concernenti le materie di cui all'articolo 117, secondo comma, lettere l), limitatamente all'organizzazione della giustizia di pace, m), limitatamente alle disposizioni generali e comuni per le politiche sociali, n), o), limitatamente alle politiche attive del lavoro e all'istruzione e formazione professionale, q), limitatamente al commercio con l'estero, s) e u), limitatamente al governo del territorio, possono essere attribuite ad altre Regioni, con legge dello Stato, anche su richiesta delle stesse, sentiti gli enti locali, nel rispetto dei princìpi di cui all'articolo 119, purché la Regione sia in condizione di equilibrio tra le entrate e le spese del proprio bilancio. La legge è approvata da entrambe le Camere, sulla base di intesa tra lo Stato e la Regione interessata.
 
 ##### Art. 117.
 
-La potestà legislativa è esercitata dallo Stato e dalle Regioni nel rispetto della Costituzione, nonché dei vincoli derivanti dall'ordinamento comunitario e dagli obblighi internazionali.
-
+La potestà legislativa è esercitata dallo Stato e dalle Regioni nel rispetto della Costituzione, nonché dei vincoli derivanti dall'ordinamento dell'Unione europea e dagli obblighi internazionali.
+ 
 Lo Stato ha legislazione esclusiva nelle seguenti materie:
 
 * a) politica estera e rapporti internazionali dello Stato; rapporti dello Stato con l'Unione europea; diritto di asilo e condizione giuridica dei cittadini di Stati non appartenenti all'Unione europea;
@@ -884,11 +933,11 @@ Lo Stato ha legislazione esclusiva nelle seguenti materie:
 
 * d) difesa e Forze armate; sicurezza dello Stato; armi, munizioni ed esplosivi;
 
-* e) moneta, tutela del risparmio e mercati finanziari; tutela della concorrenza; sistema valutario; sistema tributario e contabile dello Stato; armonizzazione dei bilanci pubblici; perequazione delle risorse finanziarie;
+* e) moneta, tutela del risparmio e mercati finanziari e assicurativi; tutela e promozione della concorrenza; sistema valutario; sistema tributario e contabile dello Stato; armonizzazione dei bilanci pubblici; coordinamento della finanza pubblica e del sistema tributario; perequazione delle risorse finanziarie;
 
 * f) organi dello Stato e relative leggi elettorali; referendum statali; elezione del Parlamento europeo;
 
-* g) ordinamento e organizzazione amministrativa dello Stato e degli enti pubblici nazionali;
+* g) ordinamento e organizzazione amministrativa dello Stato e degli enti pubblici nazionali; norme sul procedimento amministrativo e sulla disciplina giuridica del lavoro alle dipendenze delle amministrazioni pubbliche tese ad assicurarne l'uniformità sul territorio nazionale;
 
 * h) ordine pubblico e sicurezza, ad esclusione della polizia amministrativa locale;
 
@@ -896,27 +945,35 @@ Lo Stato ha legislazione esclusiva nelle seguenti materie:
 
 * l) giurisdizione e norme processuali; ordinamento civile e penale; giustizia amministrativa;
 
-* m) determinazione dei livelli essenziali delle prestazioni concernenti i diritti civili e sociali che devono essere garantiti su tutto il territorio nazionale;
+* m) determinazione dei livelli essenziali delle prestazioni concernenti i diritti civili e sociali che devono essere garantiti su tutto il territorio nazionale; disposizioni generali e comuni per la tutela della salute, per le politiche sociali e per la sicurezza alimentare;
 
-* n) norme generali sull'istruzione;
+* n) disposizioni generali e comuni sull'istruzione; ordinamento scolastico; istruzione universitaria e programmazione strategica della ricerca scientifica e tecnologica;
 
-* o) previdenza sociale;
+* o) previdenza sociale, ivi compresa la previdenza complementare e integrativa; tutela e sicurezza del lavoro; politiche attive del lavoro; disposizioni generali e comuni sull'istruzione e formazione professionale;
 
-* p) legislazione elettorale, organi di governo e funzioni fondamentali di Comuni, Province e Città metropolitane;
+* p) ordinamento, legislazione elettorale, organi di governo e funzioni fondamentali di Comuni e Città metropolitane; disposizioni di principio sulle forme associative dei Comuni;
 
-* q) dogane, protezione dei confini nazionali e profilassi internazionale;
+* q) dogane, protezione dei confini nazionali e profilassi internazionale; commercio con l'estero;
 
-* r) pesi, misure e determinazione del tempo; coordinamento informativo statistico e informatico dei dati dell'amministrazione statale, regionale e locale; opere dell'ingegno;
+* r) pesi, misure e determinazione del tempo; coordinamento informativo statistico e informatico dei dati, dei processi e delle relative infrastrutture e piattaforme informatiche dell'amministrazione statale, regionale e locale; opere dell'ingegno;
 
-* s) tutela dell'ambiente, dell'ecosistema e dei beni culturali.
+* s) tutela e valorizzazione dei beni culturali e paesaggistici; ambiente ed ecosistema; ordinamento sportivo; disposizioni generali e comuni sulle attività culturali e sul turismo;
 
-Sono materie di legislazione concorrente quelle relative a: rapporti internazionali e con l'Unione europea delle Regioni; commercio con l'estero; tutela e sicurezza del lavoro; istruzione, salva l'autonomia delle istituzioni scolastiche e con esclusione della istruzione e della formazione professionale; professioni; ricerca scientifica e tecnologica e sostegno all'innovazione per i settori produttivi; tutela della salute; alimentazione; ordinamento sportivo; protezione civile; governo del territorio; porti e aeroporti civili; grandi reti di trasporto e di navigazione; ordinamento della comunicazione; produzione, trasporto e distribuzione nazionale dell'energia; previdenza complementare e integrativa; coordinamento della finanza pubblica e del sistema tributario; valorizzazione dei beni culturali e ambientali e promozione e organizzazione di attività culturali; casse di risparmio, casse rurali, aziende di credito a carattere regionale; enti di credito fondiario e agrario a carattere regionale. Nelle materie di legislazione concorrente spetta alle Regioni la potestà legislativa, salvo che per la determinazione dei principi fondamentali, riservata alla legislazione dello Stato.
+* t) ordinamento delle professioni e della comunicazione;
 
-Spetta alle Regioni la potestà legislativa in riferimento ad ogni materia non espressamente riservata alla legislazione dello Stato.
+* u) disposizioni generali e comuni sul governo del territorio; sistema nazionale e coordinamento della protezione civile;
 
-Le Regioni e le Province autonome di Trento e di Bolzano, nelle materie di loro competenza, partecipano alle decisioni dirette alla formazione degli atti normativi comunitari e provvedono all'attuazione e all'esecuzione degli accordi internazionali e degli atti dell'Unione europea, nel rispetto delle norme di procedura stabilite da legge dello Stato, che disciplina le modalità di esercizio del potere sostitutivo in caso di inadempienza.
+* v) produzione, trasporto e distribuzione nazionali dell'energia;
 
-La potestà regolamentare spetta allo Stato nelle materie di legislazione esclusiva, salva delega alle Regioni. La potestà regolamentare spetta alle Regioni in ogni altra materia. I Comuni, le Province e le Città metropolitane hanno potestà regolamentare in ordine alla disciplina dell'organizzazione e dello svolgimento delle funzioni loro attribuite.
+* z) infrastrutture strategiche e grandi reti di trasporto e di navigazione di interesse nazionale e relative norme di sicurezza; porti e aeroporti civili, di interesse nazionale e internazionale.
+
+Spetta alle Regioni la potestà legislativa in materia di rappresentanza delle minoranze linguistiche, di pianificazione del territorio regionale e mobilità al suo interno, di dotazione infrastrutturale, di programmazione e organizzazione dei servizi sanitari e sociali, di promozione dello sviluppo economico locale e organizzazione in ambito regionale dei servizi alle imprese e della formazione professionale; salva l'autonomia delle istituzioni scolastiche, in materia di servizi scolastici, di promozione del diritto allo studio, anche universitario; in materia di disciplina, per quanto di interesse regionale, delle attività culturali, della promozione dei beni ambientali, culturali e paesaggistici, di valorizzazione e organizzazione regionale del turismo, di regolazione, sulla base di apposite intese concluse in ambito regionale, delle relazioni finanziarie tra gli enti territoriali della Regione per il rispetto degli obiettivi programmatici regionali e locali di finanza pubblica, nonché in ogni materia non espressamente riservata alla competenza esclusiva dello Stato.
+
+Su proposta del Governo, la legge dello Stato può intervenire in materie non riservate alla legislazione esclusiva quando lo richieda la tutela dell'unità giuridica o economica della Repubblica, ovvero la tutela dell'interesse nazionale.
+
+Le Regioni e le Province autonome di Trento e di Bolzano, nelle materie di loro competenza, partecipano alle decisioni dirette alla formazione degli atti normativi dell'Unione europea e provvedono all'attuazione e all'esecuzione degli accordi internazionali e degli atti dell'Unione europea, nel rispetto delle norme di procedura stabilite con legge dello Stato, che disciplina le modalità di esercizio del potere sostitutivo in caso di inadempienza.
+
+La potestà regolamentare spetta allo Stato e alle Regioni secondo le rispettive competenze legislative. È fatta salva la facoltà dello Stato di delegare alle Regioni l'esercizio di tale potestà nelle materie di competenza legislativa esclusiva. I Comuni e le Città metropolitane hanno potestà regolamentare in ordine alla disciplina dell'organizzazione e dello svolgimento delle funzioni loro attribuite, nel rispetto della legge statale o regionale.
 
 Le leggi regionali rimuovono ogni ostacolo che impedisce la piena parità degli uomini e delle donne nella vita sociale, culturale ed economica e promuovono la parità di accesso tra donne e uomini alle cariche elettive.
 
@@ -926,39 +983,41 @@ Nelle materie di sua competenza la Regione può concludere accordi con Stati e i
 
 ##### Art. 118.
 
-Le funzioni amministrative sono attribuite ai Comuni salvo che, per assicurarne l'esercizio unitario, siano conferite a Province, Città metropolitane, Regioni e Stato, sulla base dei principi di sussidiarietà, differenziazione ed adeguatezza.
+Le funzioni amministrative sono attribuite ai Comuni salvo che, per assicurarne l'esercizio unitario, siano conferite a Città metropolitane, Regioni e Stato, sulla base dei principi di sussidiarietà, differenziazione ed adeguatezza.
 
-I Comuni, le Province e le Città metropolitane sono titolari di funzioni amministrative proprie e di quelle conferite con legge statale o regionale, secondo le rispettive competenze.
+Le funzioni amministrative sono esercitate in modo da assicurare la semplificazione e la trasparenza dell'azione amministrativa, secondo criteri di efficienza e di responsabilità degli amministratori.
 
-La legge statale disciplina forme di coordinamento fra Stato e Regioni nelle materie di cui alle lettere b) e h) del secondo comma dell'articolo 117, e disciplina inoltre forme di intesa e coordinamento nella materia della tutela dei beni culturali.
+I Comuni e le Città metropolitane sono titolari di funzioni amministrative proprie e di quelle conferite con legge statale o regionale, secondo le rispettive competenze.
 
-Stato, Regioni, Città metropolitane, Province e Comuni favoriscono l'autonoma iniziativa dei cittadini, singoli e associati, per lo svolgimento di attività di interesse generale, sulla base del principio di sussidiarietà.
+La legge statale disciplina forme di coordinamento fra Stato e Regioni nelle materie di cui alle lettere b) e h) del secondo comma dell'articolo 117, e disciplina inoltre forme di intesa e coordinamento in materia di tutela dei beni culturali e paesaggistici.
+
+Stato, Regioni, Città metropolitane e Comuni favoriscono l'autonoma iniziativa dei cittadini, singoli e associati, per lo svolgimento di attività di interesse generale, sulla base del principio di sussidiarietà.
 
 ##### Art. 119.
 
-I Comuni, le Province, le Città metropolitane e le Regioni hanno autonomia finanziaria di entrata e di spesa, nel rispetto dell'equilibrio dei relativi bilanci, e concorrono ad assicurare l'osservanza dei vincoli economici e finanziari derivanti dall'ordinamento dell'Unione europea.
+I Comuni, le Città metropolitane e le Regioni hanno autonomia finanziaria di entrata e di spesa, nel rispetto dell'equilibrio dei relativi bilanci, e concorrono ad assicurare l'osservanza dei vincoli economici e finanziari derivanti dall'ordinamento dell'Unione europea.
 
-I Comuni, le Province, le Città metropolitane e le Regioni hanno risorse autonome. Stabiliscono e applicano tributi ed entrate propri, in armonia con la Costituzione e secondo i principi di coordinamento della finanza pubblica e del sistema tributario. Dispongono di compartecipazioni al gettito di tributi erariali riferibile al loro territorio.
+I Comuni, le Città metropolitane e le Regioni hanno risorse autonome.  Stabiliscono e applicano tributi ed entrate propri e dispongono di compartecipazioni al gettito di tributi erariali riferibile al loro territorio, in armonia con la Costituzione e secondo quanto disposto dalla legge dello Stato ai fini del coordinamento della finanza pubblica e del sistema tributario.
 
 La legge dello Stato istituisce un fondo perequativo, senza vincoli di destinazione, per i territori con minore capacità fiscale per abitante.
 
-Le risorse derivanti dalle fonti di cui ai commi precedenti consentono ai Comuni, alle Province, alle Città metropolitane e alle Regioni di finanziare integralmente le funzioni pubbliche loro attribuite.
+Le risorse derivanti dalle fonti di cui ai commi precedenti assicurano il finanziamento integrale delle funzioni pubbliche dei Comuni, delle Città metropolitane e delle Regioni. Con legge dello Stato sono definiti indicatori di riferimento di costo e di fabbisogno che promuovono condizioni di efficienza nell'esercizio delle medesime funzioni.
 
-Per promuovere lo sviluppo economico, la coesione e la solidarietà sociale, per rimuovere gli squilibri economici e sociali, per favorire l'effettivo esercizio dei diritti della persona, o per provvedere a scopi diversi dal normale esercizio delle loro funzioni, lo Stato destina risorse aggiuntive ed effettua interventi speciali in favore di determinati Comuni, Province, Città metropolitane e Regioni.
+Per promuovere lo sviluppo economico, la coesione e la solidarietà sociale, per rimuovere gli squilibri economici e sociali, per favorire l'effettivo esercizio dei diritti della persona, o per provvedere a scopi diversi dal normale esercizio delle loro funzioni, lo Stato destina risorse aggiuntive ed effettua interventi speciali in favore di determinati Comuni, Città metropolitane e Regioni.
 
-I Comuni, le Province, le Città metropolitane e le Regioni hanno un proprio patrimonio, attribuito secondo i principi generali determinati dalla legge dello Stato. Possono ricorrere all'indebitamento solo per finanziare spese di investimento, con la contestuale definizione di piani di ammortamento e a condizione che per il complesso degli enti di ciascuna Regione sia rispettato l'equilibrio di bilancio. È esclusa ogni garanzia dello Stato sui prestiti dagli stessi contratti.
+I Comuni, le Città metropolitane e le Regioni hanno un proprio patrimonio, attribuito secondo i princìpi generali determinati dalla legge dello Stato.  Possono ricorrere all'indebitamento solo per finanziare spese di investimento, con la contestuale definizione di piani di ammortamento e a condizione che per il complesso degli enti di ciascuna Regione sia rispettato l'equilibrio di bilancio. È esclusa ogni garanzia dello Stato sui prestiti dagli stessi contratti.
 
 ##### Art. 120.
 
 La Regione non può istituire dazi di importazione o esportazione o transito tra le Regioni, né adottare provvedimenti che ostacolino in qualsiasi modo la libera circolazione delle persone e delle cose tra le Regioni, né limitare l'esercizio del diritto al lavoro in qualunque parte del territorio nazionale.
 
-Il Governo può sostituirsi a organi delle Regioni, delle Città metropolitane, delle Province e dei Comuni nel caso di mancato rispetto di norme e trattati internazionali o della normativa comunitaria oppure di pericolo grave per l'incolumità e la sicurezza pubblica, ovvero quando lo richiedono la tutela dell'unità giuridica o dell'unità economica e in particolare la tutela dei livelli essenziali delle prestazioni concernenti i diritti civili e sociali, prescindendo dai confini territoriali dei governi locali. La legge definisce le procedure atte a garantire che i poteri sostitutivi siano esercitati nel rispetto del principio di sussidiarietà e del principio di leale collaborazione.
+Il Governo, acquisito, salvi i casi di motivata urgenza, il parere del Senato della Repubblica, che deve essere reso entro quindici giorni dalla richiesta, può sostituirsi a organi delle Regioni, delle Città metropolitane, delle Province autonome di Trento e di Bolzano e dei Comuni nel caso di mancato rispetto di norme e trattati internazionali o della normativa comunitaria oppure di pericolo grave per l'incolumità e la sicurezza pubblica, ovvero quando lo richiedono la tutela dell'unità giuridica o dell'unità economica e in particolare la tutela dei livelli essenziali delle prestazioni concernenti i diritti civili e sociali, prescindendo dai confini territoriali dei governi locali. La legge definisce le procedure atte a garantire che i poteri sostitutivi siano esercitati nel rispetto del principio di sussidiarietà e del principio di leale collaborazione e stabilisce i casi di esclusione dei titolari di organi di governo regionali e locali dall'esercizio delle rispettive funzioni quando è stato accertato lo stato di grave dissesto finanziario dell'ente.
 
 ##### Art. 121.
 
 Sono organi della Regione: il Consiglio regionale, la Giunta e il suo Presidente.
 
-Il Consiglio regionale esercita le potestà legislative attribuite alla Regione e le altre funzioni conferitegli dalla Costituzione e dalle leggi. Può fare proposte di legge alle Camere.
+Il Consiglio regionale esercita le potestà legislative attribuite alla Regione e le altre funzioni conferitegli dalla Costituzione e dalle leggi. Può fare proposte di legge alla Camera dei deputati.
 
 La Giunta regionale è l'organo esecutivo delle Regioni.
 
@@ -966,9 +1025,9 @@ Il Presidente della Giunta rappresenta la Regione; dirige la politica della Giun
 
 ##### Art. 122.
 
-Il sistema di elezione e i casi di ineleggibilità e di incompatibilità del Presidente e degli altri componenti della Giunta regionale nonché dei consiglieri regionali sono disciplinati con legge della Regione nei limiti dei principi fondamentali stabiliti con legge della Repubblica, che stabilisce anche la durata degli organi elettivi.
+Il sistema di elezione e i casi di ineleggibilità e di incompatibilità del Presidente e degli altri componenti della Giunta regionale nonché dei consiglieri regionali sono disciplinati con legge della Regione nei limiti dei principi fondamentali stabiliti con legge della Repubblica, che stabilisce anche la durata degli organi elettivi e i relativi emolumenti nel limite dell'importo di quelli attribuiti ai sindaci dei Comuni capoluogo di Regione.  La legge della Repubblica stabilisce altresì i princìpi fondamentali per promuovere l'equilibrio tra donne e uomini nella rappresentanza.
 
-Nessuno può appartenere contemporaneamente a un Consiglio o a una Giunta regionale e ad una delle Camere del Parlamento, ad un altro Consiglio o ad altra Giunta regionale, ovvero al Parlamento europeo.
+Nessuno può appartenere contemporaneamente a un Consiglio o a una Giunta regionale e alla Camera dei deputati, ad un altro Consiglio o ad altra Giunta regionale, ovvero al Parlamento europeo.
 
 Il Consiglio elegge tra i suoi componenti un Presidente e un ufficio di presidenza.
 
@@ -996,7 +1055,7 @@ Nella Regione sono istituiti organi di giustizia amministrativa di primo grado, 
 
 ##### Art. 126.
 
-Con decreto motivato del Presidente della Repubblica sono disposti lo scioglimento del Consiglio regionale e la rimozione del Presidente della Giunta che abbiano compiuto atti contrari alla Costituzione o gravi violazioni di legge. Lo scioglimento e la rimozione possono altresì essere disposti per ragioni di sicurezza nazionale. Il decreto è adottato sentita una Commissione di deputati e senatori costituita, per le questioni regionali, nei modi stabiliti con legge della Repubblica.
+Con decreto motivato del Presidente della Repubblica sono disposti lo scioglimento del Consiglio regionale e la rimozione del Presidente della Giunta che abbiano compiuto atti contrari alla Costituzione o gravi violazioni di legge. Lo scioglimento e la rimozione possono altresì essere disposti per ragioni di sicurezza nazionale. Il decreto è adottato previo parere del Senato della Repubblica.
 
 Il Consiglio regionale può esprimere la sfiducia nei confronti del Presidente della Giunta mediante mozione motivata, sottoscritta da almeno un quinto dei suoi componenti e approvata per appello nominale a maggioranza assoluta dei componenti. La mozione non può essere messa in discussione prima di tre giorni dalla presentazione.
 
@@ -1049,11 +1108,9 @@ Sono costituite le seguenti Regioni:
 
 Si può con legge costituzionale, sentiti i Consigli regionali, disporre la fusione di Regioni esistenti o la creazione di nuove Regioni con un minimo di un milione d'abitanti, quando ne facciano richiesta tanti Consigli comunali che rappresentino almeno un terzo delle popolazioni interessate, e la proposta sia approvata con referendum dalla maggioranza delle popolazioni stesse.
 
-Si può, con l'approvazione della maggioranza delle popolazioni della Provincia o delle Province interessate e del Comune o dei Comuni interessati espressa mediante referendum e con legge della Repubblica, sentiti i Consigli regionali, consentire che Provincie e Comuni, che ne facciano richiesta, siano staccati da una Regione ed aggregati ad un'altra.
+Si può, con l'approvazione della maggioranza delle popolazioni del Comune o dei Comuni interessati espressa mediante referendum e con legge della Repubblica, sentiti i Consigli regionali, consentire che i Comuni, che ne facciano richiesta, siano staccati da una Regione ed aggregati ad un'altra.
 
 ##### Art. 133.
-
-Il mutamento delle circoscrizioni provinciali e la istituzione di nuove Provincie nell'ambito d'una Regione sono stabiliti con legge della Repubblica, su iniziative dei Comuni, sentita la stessa Regione.
 
 La Regione, sentite le popolazioni interessate, può con sue leggi istituire nel proprio territorio nuovi Comuni e modificare le loro circoscrizioni e denominazioni.
 
@@ -1065,9 +1122,11 @@ La Regione, sentite le popolazioni interessate, può con sue leggi istituire nel
 
 La Corte costituzionale giudica: sulle controversie relative alla legittimità costituzionale delle leggi e degli atti, aventi forza di legge, dello Stato e delle Regioni; sui conflitti di attribuzione tra i poteri dello Stato, e su quelli tra lo Stato e le Regioni, e tra le Regioni; sulle accuse promosse contro il Presidente della Repubblica, a norma della Costituzione.
 
+La Corte costituzionale giudica altresì della legittimità costituzionale delle leggi che disciplinano l'elezione dei membri della Camera dei deputati e del Senato della Repubblica ai sensi dell'articolo 73, secondo comma.
+
 ##### Art. 135.
 
-La Corte costituzionale è composta di quindici giudici nominati per un terzo dal Presidente della Repubblica, per un terzo dal Parlamento in seduta comune e per un terzo dalle supreme magistrature ordinaria ed amministrative.
+La Corte costituzionale è composta da quindici giudici, dei quali un terzo nominati dal Presidente della Repubblica, un terzo dalle supreme magistrature ordinaria ed amministrative, tre dalla Camera dei deputati e due dal Senato della Repubblica.
 
 I giudici della Corte costituzionale sono scelti tra i magistrati anche a riposo delle giurisdizioni superiori ordinaria ed amministrative, i professori ordinari di università in materie giuridiche e gli avvocati dopo venti anni d'esercizio.
 
@@ -1079,7 +1138,7 @@ La Corte elegge tra i suoi componenti, secondo le norme stabilite dalla legge, i
 
 L'ufficio di giudice della Corte è incompatibile con quello di membro del Parlamento, di un Consiglio regionale, con l'esercizio della professione di avvocato e con ogni carica ed ufficio indicati dalla legge.
 
-Nei giudizi d'accusa contro il Presidente della Repubblica, intervengono, oltre i giudici ordinari della Corte, sedici membri tratti a sorte da un elenco di cittadini aventi i requisiti per l'eleggibilità a senatore, che il Parlamento compila ogni nove anni mediante elezione con le stesse modalità stabilite per la nomina dei giudici ordinari.
+Nei giudizi d'accusa contro il Presidente della Repubblica, intervengono, oltre i giudici ordinari della Corte, sedici membri tratti a sorte da un elenco di cittadini aventi i requisiti per l'eleggibilità a deputato, che il Parlamento compila ogni nove anni mediante elezione con le stesse modalità stabilite per la nomina dei giudici ordinari.
 
 ##### Art. 136.
 
